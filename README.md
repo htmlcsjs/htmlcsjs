@@ -1,3 +1,2 @@
-### Epic Gaming
-
-flop
+### About Me
+Hi, I am Lenny, also going by "htmlcsjs" on the internet, and I am a hobbyist programmer. I am currently studying physics at university and I am particularly interested in computational and experimental physics, though I haven't fully decided what branch of physics I want to go into. I am also interested in Minecraft modding and I am apart of the developer team for [GregTechCEu](https://github.com/GregTechCEu).
